@@ -1,4 +1,4 @@
-# WonderCancel changes
+# Wonder
  Bootstrap template hosted on IFPS. The Interplanetary File System (IPFS) is a decentralized file system for building the next generation of the internet. Many popular Web3 projects are built on IPFS. Some call it the hard drive for blockchain and Web3.
  
  https://gateway.ipfs.io/ipfs/QmScQvhViaYm8fG3ti6vZoKNtsJL1BrgGaxc7uHARaxeL9/
